@@ -1,0 +1,20 @@
+A felhő alapú számítástechnika (Cloud Computing), illetve az, hogy pontosan mi a felhő, legegyszerűbben így foglalható össze: ezek a szolgáltatások azon alapulnak, hogy a fájlok tárolása és a szoftverek futtatása nem a saját eszközünkön történik. A felhő használata közben adataink egy távoli szerveren találhatók meg, így bármilyen eszközről hozzáférhetünk azokhoz, ha van internetelérésünk.
+Néhány felhőszolgáltatás:
+-Google Drive
+-ICloud
+-SkyDrive
+-Dropbox
+Előnyei és hátrányai:
+Előnyei:
+-Költséghatékonyság
+-Gyorsaság
+-Rugalmas hozzáférhetőség
+-Biztonságos back-up
+-Kezelhetőség
+-Skálázhatóság
+Hátrányai:
+-Biztonsági rés
+-Internetelérési probléma
+-Szolgáltatás-kiesés
+-Szolgáltatásváltási nehézségek
+-Limitált hozzáférhetőség
