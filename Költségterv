@@ -1,10 +1,18 @@
-Költségterv:	
-	Jövedelmek
-		- minden alkatrészen pontosan 5% nyereség
-		- weboldal készítés 1,5 millió ft
-		- hálózat összerakása, konfigurálása 3 millió ft
-	
-	Kiadás
-		- különböző adók
-		- az alkamazottak órabére
-		- marketing
+Alap hálózati csomag (635659 Ft + pl. elosztók)
+	Router: Cisco RV340-K9-G5 Router (244480 Ft)
+	Switch: Cisco SF110-24-EU (33320 Ft)
+	Acces point: Cisco AIR-AP1852I-E-K9 (357859 Ft)
+	Elosztók, hosszabítók: 5 Plug 5M (db 6000 Ft)
+
+Haladó hálózati csomag (917,891 Ft + pl. elosztók)
+	Router: Cisco C891F-K9 Router (402322 Ft)
+	Switch: Cisco SF112-24-EU (74160 Ft)
+	Acces point: Cisco AIR-AP3802I-E-K9(441409 Ft)
+	Elosztók, hosszabítók: 5 Plug 5M (db 6000 Ft)
+
+Microsoft 365 Vállalati standard verzió: 4500 Ft felhasználó/hó
+
+Szolgáltatások:
+Hálózat teljes összeszerelése: 50000 Ft
+Hálózat szoftwares konfigurálása: 75000 Ft
+Operációsrendszerek telepítése: 3000 Ft
